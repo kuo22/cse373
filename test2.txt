@@ -1,0 +1,4 @@
+enqueue dog
+enqueue cat
+enqueue bird
+dequeue dog

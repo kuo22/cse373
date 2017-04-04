@@ -1,0 +1,4 @@
+enqueue dog
+enqueue dog
+dequeue dog
+dequeue dog
